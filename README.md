@@ -25,4 +25,4 @@
 [![GitHub](https://img.shields.io/badge/GitHub-ish7161-lightgrey)](https://github.com/ish7161)  
 📧 **Email:** ishikamiglani7161@gmail.com  
 
-🚀 *Open to collaborations and opportunities in Canada!*
+🚀 *Open to collaborations and opportunities in Canada, India and US*
