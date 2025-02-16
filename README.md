@@ -8,7 +8,7 @@
 🔹 Passionate about **open-source contributions, machine learning, and scalable app development**.  
  
 ## 💻 Tech Stack  
-🔹 **Frontend:** Flutter, React Native
+🔹 **Frontend:** Flutter, React Native.
 🔹 **Native Development:** Android Jetpack, Android Jetpack Compose, Android Leanback, Swift UI
 🔹 **Testing Frameworks:** Flutter Testing (Unit, Widget, Integration), Test-Driven Development
 🔹 **Databases:** Cloud Firestore
